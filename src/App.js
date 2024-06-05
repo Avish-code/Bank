@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 // import CrudOperation from './CRUD/crudOperation';
-import AssignCrud from './CRUD/assignCrud';
+// import AssignCrud from './CRUD/assignCrud';
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import Component1 from './Component/myComponent';
+import Component1 from './Component/myComponent';
 
 function App() {
   return (
@@ -26,8 +26,8 @@ function App() {
     <div>
       {/* <CrudOperation/> */}
 
-      <AssignCrud/>
-      {/* <Component1/> */}
+      // <AssignCrud/>
+      <Component1/>
     </div>
   );
 }
