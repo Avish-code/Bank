@@ -26,7 +26,7 @@ function App() {
     <div>
       {/* <CrudOperation/> */}
 
-      // <AssignCrud/>
+    {/* <AssignCrud/>*/}
       <Component1/>
     </div>
   );
